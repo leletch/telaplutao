@@ -94,6 +94,7 @@ const styles = StyleSheet.create({
   galleryImage: {
     width: 150,
     height: 150,
-    marginHorizontal: 10,
+    marginHorizontal: 15,
+    borderRadius: 20,
   },
 });
